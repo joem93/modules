@@ -1,3 +1,3 @@
 output "development" {
-    value = local.development
+    value = local.dev
 }
